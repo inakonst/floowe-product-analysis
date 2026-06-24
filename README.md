@@ -1,6 +1,6 @@
 # Floowe – Analiza Produktu i Specyfikacja Funkcjonalności
 
-Zadanie rekrutacyjne na stanowisko **Techniczny Analityk Biznesowy i Project Manager dla AI i Automatyzacji**
+**Techniczny Analityk Biznesowy i Project Manager dla AI i Automatyzacji**
 
 ---
 
@@ -14,7 +14,7 @@ Analiza aplikacji [Floowe.com](https://floowe.com) – platformy do AI-wspomagan
 
 | Plik | Opis |
 |------|------|
-| `Floowe_Zadanie_Rekrutacyjne.docx` | Główny dokument analityczny |
+| `Floowe_.docx` | Główny dokument analityczny |
 | `README.md` | Opis projektu i metodologii |
 
 ---
